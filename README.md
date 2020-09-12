@@ -8,7 +8,6 @@ Using cargo:
 Produced binary is in `target/release`
 
 ## Usage
-Start by creating the message dump.
 
 `discord-markov` assumes the current working directory is the `messages` directory of your discord data package.
 Without any arguments, the program will just extract all the messages it can find, and write them to standard output. Write that to a file:
