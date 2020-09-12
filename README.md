@@ -1,5 +1,5 @@
 # discord-markov
-A rust program to extract messages from a discord data package, and then produce markov chains from it
+A rust program to extract messages from a discord data package, and then produce markov chains from it.
 
 ## Building
 Using cargo:
